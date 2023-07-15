@@ -1,0 +1,3 @@
+export const DECISION_SERVICE = "DECISION";
+
+export const TESTCASES_SERVICE = "TESTCASES";
